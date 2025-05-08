@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Atul-Munde/argocd-example-apps
     targetRevision: master
-    path: argo/microservice-a
+    path: argo/micro-a
   destination:
     server: https://kubernetes.default.svc
     namespace: argocd
