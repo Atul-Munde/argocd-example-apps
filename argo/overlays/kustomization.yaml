@@ -1,0 +1,4 @@
+resources:
+  - ../micro-a
+  - ../micro-b
+  - ../micro-c
